@@ -1,0 +1,23 @@
+{
+  "name": "sarcasm-on-reddit",
+  "version": "1.0.0",
+  "description": "This repository contains information and exercises to explore [Sarcasm on Reddit](https://www.kaggle.com/danofer/sarcasm) dataset.",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "split2": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AitoDotAI/sarcasm-on-reddit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AitoDotAI/sarcasm-on-reddit/issues"
+  },
+  "homepage": "https://github.com/AitoDotAI/sarcasm-on-reddit#readme"
+}

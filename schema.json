@@ -1,0 +1,21 @@
+{
+  "schema": {
+    "comments": {
+      "type": "table",
+      "columns": {
+        "label": { "type": "Int" },
+        "comment": { "type": "Text", "analyzer": "English" },
+        "comment_2grams": { "type": "Text", "analyzer": "Whitespace" },
+        "comment_whitespace": { "type": "Text", "analyzer": "Whitespace" },
+        "comment_has_upper_case_word": { "type": "Boolean" },
+        "author": { "type": "String" },
+        "subreddit": { "type": "String" },
+        "score": { "type": "Int" },
+        "ups": { "type": "Int" },
+        "downs": { "type": "Int" },
+        "date": { "type": "String" },
+        "parent_comment": { "type": "Text", "analyzer": "English" }
+      }
+    }
+  }
+}
