@@ -6,7 +6,7 @@ curl -X POST \
   {
     "from": "comments",
     "where": {
-      "subreddit": "politics",
+      "subreddit": "AskReddit",
       "label": 1
     },
     "orderBy": "ups",
