@@ -1,6 +1,6 @@
 # Sarcasm on Reddit
 
-This repository contains information and exercises to explore
+This repository contains information and exercises to explore the
 [Sarcasm on Reddit](https://www.kaggle.com/danofer/sarcasm) dataset.
 
 ## Key information
@@ -60,7 +60,7 @@ Hint: API documentation. This helps to understand the labeling distribution.
 ```
 
 
-### 2. Search for comments which have word "cool" in them
+### 2. Search for comments which have the word "cool" in them
 
 Hint: Text operators
 
@@ -88,7 +88,7 @@ Hint: Text operators
   ...
 ```
 
-### 3. Search for most upvoted sarcastic comment in "AskReddit" subreddit
+### 3. Search for the most upvoted sarcastic comment in "AskReddit" subreddit
 
 No hint.
 
@@ -218,7 +218,7 @@ Evaluate in API docs.
 Here the correct field is `accuracy`.
 
 
-### 7. Explain what features in comments in general make them sarcastic
+### 7. Explain what features make comments sarcastic
 
 Hint: see Relate query in API docs.
 
