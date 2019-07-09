@@ -9,6 +9,7 @@ This repository contains information and exercises to explore the
 - The environment is served at https://aito-reddit-sarcasm.api.aito.ai
 - Aito [documentation](https://aito.ai/docs/) and [API docs](https://aito.ai/docs/api/) are good resources
 - You can use our hosted [Swagger UI](https://aito.ai/docs/swagger/?aitoEnv=aito-reddit-sarcasm) to do queries from browser
+- The data preparation / upload is explained in [Initial Aito setup](https://github.com/AitoDotAI/sarcasm-on-reddit#initial-aito-setup) chapter
 
 ### Curl reference
 
