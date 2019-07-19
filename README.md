@@ -41,23 +41,25 @@ Hint: API documentation. This helps to understand the labeling distribution.
 
 ```js
 {
-  "offset" : 0,
-  "total" : 5000,
-  "hits" : [ {
-    "author" : "Trumpbart",
-    "comment" : "NC and NH.",
-    "comment_2grams" : "nc-and and-nh.",
-    "comment_has_upper_case_word" : true,
-    "comment_whitespace" : "NC and NH.",
-    "date" : "2016-10",
-    "downs" : -1,
-    "label" : 0,
-    "parent_comment" : "Yeah, I get that argument. At this point, I'd prefer is she lived in NC as well.",
-    "score" : 2,
-    "subreddit" : "politics",
-    "ups" : -1
-  },
-  ...
+  "offset": 0,
+  "total": 5000,
+  "hits": [
+    {
+      "author": "RoguishPoppet",
+      "comment": "But they'll have all those reviews!",
+      "comment_2grams": "but-they'll they'll-have have-all all-those those-reviews!",
+      "comment_has_upper_case_word": false,
+      "comment_whitespace": "But they'll have all those reviews!",
+      "date": "2016-11",
+      "downs": -1,
+      "label": 1,
+      "parent_comment": "The dumb thing is, they are risking their seller account, too.",
+      "score": 0,
+      "subreddit": "ProductTesting",
+      "ups": -1
+    }
+  ]
+}
 ```
 
 
