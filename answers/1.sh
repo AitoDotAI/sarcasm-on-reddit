@@ -6,7 +6,7 @@ curl -X POST \
   {
     "from": "comments",
     "where": {
-      "label": 0
+      "label": 1
     },
     "limit": 1
   }
