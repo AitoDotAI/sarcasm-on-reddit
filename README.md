@@ -1,3 +1,5 @@
+**NOTE: This example repository is not actively maintained. For later examples navigate to [Aito Docs](https://aito.ai/docs/).**
+
 # Sarcasm on Reddit
 
 This repository contains information and exercises to explore the
